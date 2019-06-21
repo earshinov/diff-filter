@@ -1,0 +1,14 @@
+diff --git a/orig/a.txt b/orig/a.txt
+deleted file mode 100644
+index f70f10e..0000000
+--- a/orig/a.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-A
+diff --git a/orig/b.txt b/mod/b.txt
+index 223b783..a19a027 100644
+--- a/orig/b.txt
++++ b/mod/b.txt
+@@ -1 +1 @@
+-B1
++B2
